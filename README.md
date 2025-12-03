@@ -7,7 +7,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install python 
 
 Ensure you have the following libraries downloaded by running the following commands in terminal:
 ```bash
-pip install tk, cv2
+pip install tk, opencv-python
 ```
 
 ## Contributing
